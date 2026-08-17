@@ -1,35 +1,18 @@
-[        YOUR BANNER / GIF        ]
+# Hey, I'm Ruqayya Yusuf 👋
 
-Hey, I'm Ruqayya Yusuf 👋
-Also known online as Raya Izel
+### Also known online as **Raya Izel**
 
-Software Developer · Founder · Builder
+I'm a **Software Developer, Founder, and Builder** who enjoys turning ideas into real products — from software and interactive experiences to games, websites, and digital platforms.
 
-I turn ideas into real products — from software and
-interactive experiences to games, websites and digital platforms.
+I'm interested in the space where **technology, AI/ML, creativity, cybersecurity, ethics, and law** meet. I also enjoy exploring research, design, psychology, neuroscience, and other fields that spark my curiosity.
 
-WHAT I DO
+## ✦ What I'm Exploring
 
-💻 Software Development
-Building web applications, digital products and interactive experiences.
+`Java` · `Python` · `JavaScript` · `React` · `Next.js` · `Supabase`
 
-👾 AI, Emerging Technology & Tech Ethics
-Exploring AI/ML, intelligent systems, automation, cybersecurity,
-digital ethics and technology law.
+`AI/ML` · `System Design` · `Game Development` · `Cybersecurity`
+· `Technology Law` · `Emerging Technology`
 
-🎮 Games & Interactive Experiences
-Building games and experimental interactive projects whenever an idea sparks.
+---
 
-🚀 Entrepreneurship
-Building digital products and growing ideas from concept to execution.
-
-WHAT I'M EXPLORING
-
-Java · Python · JavaScript · React · Next.js · Supabase
-AI/ML · System Design · Game Development · Cybersecurity · Technology Law
-
-BEYOND CODE
-
-Research · Writing · Design · Psychology · Neuroscience · Interdisciplinary Learning
-
-"Building ideas into actual experiences."
+> **Building ideas into actual experiences.**
