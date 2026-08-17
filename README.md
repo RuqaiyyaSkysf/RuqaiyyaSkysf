@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./raya-banner.png" alt="Raya Izel" width="100%">
+</p>
+
 # Hey, I'm Ruqayya Yusuf 👋
 
 ### Also known online as **Raya Izel**
